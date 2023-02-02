@@ -1,9 +1,9 @@
 Hi! I'm Rodrigo, nice to meet you! 👋
 
-# I'm a front-end developer, passionate about technology, development, UI/UX Design and motion. 
-# I graduated as a Control and Automation Engineer, but currently I'm on a carrer transition to front-end developer.
-# At the moment I'm studying HTML, CSS, SCSS, JS and ReactJS. 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="widht: 32px; height: 32px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+I'm a front-end developer, passionate about technology, development, UI/UX Design and motion. 
+I graduated as a Control and Automation Engineer, but currently I'm on a carrer transition to front-end developer.
+At the moment I'm studying HTML, CSS, SCSS, JS and ReactJS. 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="widht: 32px; height: 32px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="widht: 32px; height: 32px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="widht: 32px; height: 32px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="widht: 32px; height: 32px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="widht: 32px; height: 32px;"/>
 
 
 
