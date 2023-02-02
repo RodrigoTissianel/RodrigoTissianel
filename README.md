@@ -1,11 +1,20 @@
-### Hi there 👋
+<h2>Hi! I'm Rodrigo, nice to meet you! 👋</h2>
+
+# I'm a front-end developer, passionate about technology, development, UI/UX Design and motion. 
+# I graduated as a Control and Automation Engineer, but currently I'm on a carrer transition to front-end developer.
+# At the moment I'm studying HTML, CSS, SCSS, JS and ReactJS. 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+
+
+
 
 <!--
 **RodrigoTissianel/RodrigoTissianel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
