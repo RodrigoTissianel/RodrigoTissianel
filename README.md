@@ -2,7 +2,7 @@
 
 <p>I'm a front-end developer, passionate about technology, development, UI/UX Design and motion. </br>
 I graduated as a Control and Automation Engineer, but currently I'm on a carrer transition to front-end developer. </br>
-At the moment I'm studying HTML, CSS, SCSS, JS and ReactJS. </br>
+At the moment I'm studying HTML, CSS, SCSS, JS and ReactJS. </br> </br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="widht: 32px; height: 32px;"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="widht: 32px; height: 32px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="widht: 32px; height: 32px;"/> 
