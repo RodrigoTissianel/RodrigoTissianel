@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About me
 + I'm graduated as a Control and Automation Engineer, but currently i'm on a carrer transition to front-end developer. Throughout college I had a lot of programming classes, wich helped me develop my logic and discover my passion for programming. Also, I've always liked to create and design things, so that's why I started learning front-end development and fell in love with it.</br>
-+ I have experience with HTML, CSS, SCSS, JS and i'm improving in ReactJS. I'm also planing on studying back-end related stacks as well.
++ I have experience with HTML, CSS, SCSS, JS and i'm improving in ReactJS. I'm also studying back-end related stacks as well to become a fullstack developer.
 
 
 
